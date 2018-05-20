@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0
+}
+body {
+
+}
+.card {
+    margin: 2% auto;
+    width: 99%;
+    max-width: 400px;
+
+}
+
+.card img {
+    width: 100%;
+    max-width: 400px;
+}
+header {
+    padding: .34%;
+    border: 1px solid #eee;
+    text-transform: uppercase;
+}
+.container {
+    margin-top: 2%;
+}
+form {
+    float: right;
+}
