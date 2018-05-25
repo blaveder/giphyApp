@@ -27,3 +27,22 @@ header {
 form {
     float: right;
 }
+.btnSp {
+    margin: 0 .5%;
+}
+.test {
+    padding: 2%;
+    margin-top: 2%;
+    border: 1px solid black;
+}
+
+@media all and (max-width: 767px) and (min-width: 350px) {
+    .form-control {
+       
+        width: 70%;
+       margin-right: 2%;
+    }
+    form {
+        width: 100%;
+    }
+}
